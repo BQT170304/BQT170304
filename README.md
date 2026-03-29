@@ -22,6 +22,22 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/BQT170304">
+    <img src="https://img.shields.io/badge/GitHub-0c0d11?style=for-the-badge&logo=github&logoColor=c8a96e" />
+  </a>
+  &nbsp;
+  <a href="mailto:tungtungbb9@gmail.com">
+    <img src="https://img.shields.io/badge/tungtungbb9@gmail.com-0c0d11?style=for-the-badge&logo=gmail&logoColor=c8a96e" />
+  </a>
+  <a href="https://linkedin.com/in/bqtung1703">
+    <img src="https://img.shields.io/badge/LinkedIn-0c0d11?style=for-the-badge&logo=linkedin&logoColor=6b8cff" />
+  </a>
+  &nbsp;
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════
      ABOUT
 ════════════════════════════════════════════════════════════ -->
@@ -176,27 +192,6 @@ class BuiQuangTung:
 ## 〔 Contribution Activity 〕
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BQT170304&bg_color=0c0d11&color=c8a96e&line=6b8cff&point=c8a96e&area=true&area_color=c8a96e&hide_border=true&radius=6" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     CONNECT
-════════════════════════════════════════════════════════════ -->
-## 〔 Connect 〕
-
-<p align="center">
-  <a href="https://github.com/BQT170304">
-    <img src="https://img.shields.io/badge/GitHub-0c0d11?style=for-the-badge&logo=github&logoColor=c8a96e" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/bui-quang-tung">
-    <img src="https://img.shields.io/badge/LinkedIn-0c0d11?style=for-the-badge&logo=linkedin&logoColor=6b8cff" />
-  </a>
-  &nbsp;
-  <a href="mailto:tungtungbb9@gmail.com">
-    <img src="https://img.shields.io/badge/tungtungbb9@gmail.com-0c0d11?style=for-the-badge&logo=gmail&logoColor=c8a96e" />
-  </a>
-</p>
 
 <br/>
 
